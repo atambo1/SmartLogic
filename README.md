@@ -1,2 +1,0 @@
-# SmartLogic
-React Project
